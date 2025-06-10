@@ -1,0 +1,44 @@
+# **Undertale**
+![Titulo](https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000009921/44bea8c565db26c0c470a6325a47c9ea031633945cb91e4b5e1b1a39b01a2cdb)
+* ey, humano. el siguiente artículo puede contener spoilers de Undertale. si no has completado el juego, leer el artículo hará que pases un mal rato.
+* y no queremos eso... *¿o sí?*
+![Sans](https://m.gjcdn.net/game-header/1200/418501-crop0_38_1400_388-tgj2idzz-v4.webp)
+
+### Contenidos:
+**1.¿Que es Undertale?**
+**2.Historia**
+**3.Personajes**
+**4.Curiosidades**
+
+##### ¿Que es Undertale?
+*Undertale* es un juego de rol desarrollado de manera independiente por **Toby Fox**, junto con el aporte artístico de **Temmie Chang**, utilizando el motor GameMaker: Studio. Fue lanzado para Microsoft Windows y Mac OS X el 15 de septiembre del 2015, el 17 de julio de 2016 para Linux, para PS4 y PS Vita el 15 de agosto de 2017, para Nintendo Switch el 18 de septiembre de 2018 y para Xbox One y Xbox Series X|S el 15 de marzo de 2021. 
+
+##### Historia
+Tiempo atrás, dos razas reinaban sobre la Tierra: Los Humanos y los *Monstruos*. Un día, la guerra estalló entre las dos razas y tras una larga serie de batallas, los humanos vencieron. Los mejores y más grandes magos humanos sellaron a los monstruos bajo tierra, en el Subterráneo con una barrera mágica.
+
+Varios años después de la guerra,, un infante humano escaló el Monte Ebott por razones desconocidas. Existe un dicho que quienes escalan el Monte, nunca vuelven. Frisk (protagonista) descubre una enorme abertura en la montaña y cae dentro de la cueva. Aquí es donde empieza su aventura.
+Este juego cuenta con 3 posibles rutas:
++ Ruta Neutral
++ Ruta Pacifista Verdadera
++ Ruta Genocida
+
+##### Personajes:
+![pERSONAJES](https://e7.pngegg.com/pngimages/583/99/png-clipart-sprite-undertale-pixel-art-undertale-fell-pony.png)
+|Personaje|Descripción|
+|---------|-------|
+|Sans|Sans es el hermano mayor de Papyrus y un personaje principal de Undertale. Aparece por primera vez en el Bosque Snowdin después de que el protagonista sale de las Ruinas. Sans es el deuteragonista de las rutas Neutral y Pacifista Verdadero, en las que vigila al protagonista durante todo el juego. También es el jefe final de la Ruta Genocidio en el Último Corredor de New Home con su famosa frase "¿Quieres pasar un mal rato?"|
+|Frisk|Frisk es el personaje jugable, protagonista principal y el octavo humano de Undertale. Tras caer en el Subsuelo , se aventura a regresar a la superficie, ya sea de forma neutral, genocida o pacífica.|
+|Papyrus|Papyrus es el hermano menor de Sans.Papyrus quiere convertirse en Guardia Real para ganar fama y amigos.Patrulla y prepara muchos de los rompecabezas del Bosque Snowdin con la esperanza de capturar a un humano y lograr su objetivo. "¡YO SERÉ EL ÚNICO! ¡DEBO SER EL ÚNICO!¡CAPTURARE A UN HUMANO! ENTONCES, YO, EL GRAN PAPYRUS...¡CONSEGUIRÉ TODO LO QUE MEREZCO!"|
+|Chara|Chara, también conocida como la humana caída, es la primera humana en caer al Inframundo. Chara es su "verdadero nombre" en la pantalla de nombres, aunque su nombre suele variar según lo que el jugador introduzca. Es distinta del octavo humano caído , protagonista de Undertale . Como personaje principal, su rol principal se describe a través de las historias de fondo de los Dreemurr, aunque Chara también aparece al final de la Ruta del Genocidio.|
+
+##### Curiosidades:
++ En dos imágenes de muestra del sitio oficial, en la pestaña "about", el nombre del personaje jugable era Taco
++ El título de la página donde se encuentra el Demo para descargar es "Deliciosa Muestra Gratis de Undertale"
++ Si se intenta ver el HTML de la página oficial del juego, se puede encontrar un mensaje de Toby Fox que dice: 
+
+> "What are you doing? Looking for secrets? Don't put your nose where it doesn't belong. Or you might learn something you DON'T like... Hee hee hee."
+
+ES DECIR:
+> "¿Qué estás haciendo?¿Buscas secretos? No metas tu nariz donde no te llaman. O podrías aprender algo que NO te guste... Ji ji ji."
+
++ En un principio, el juego iba a ser una secuela no oficial de EarthBound, llamada UnderBound, al final, Toby decidió cambiar la idea, y así, creó Undertale.
